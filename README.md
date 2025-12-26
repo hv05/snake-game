@@ -7,11 +7,15 @@ This project improved my understanding of JavaScript logic, event handling, arra
 🛠️ Technologies Used
 
 HTML – Structure
+
 CSS – Styling and animations
+
 JavaScript – Game logic and interactivity
 
 🎯 Learning Outcomes
 
 Improved JavaScript fundamentals
+
 Better understanding of game logic and state management
+
 Hands-on experience with DOM events and functions
